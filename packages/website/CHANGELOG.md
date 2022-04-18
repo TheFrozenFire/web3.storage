@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.0](https://github.com/web3-storage/web3.storage/compare/website-v2.2.1...website-v2.3.0) (2022-04-18)
+
+
+### Features
+
+* consolidate subnav account menu ([#1252](https://github.com/web3-storage/web3.storage/issues/1252)) ([0a9b1b1](https://github.com/web3-storage/web3.storage/commit/0a9b1b17b5e2acf25fcc0f4fd5bc91b59aa695df))
+
+
+### Bug Fixes
+
+* statuspage incidents appear in message banner ([#1188](https://github.com/web3-storage/web3.storage/issues/1188)) ([a086fcc](https://github.com/web3-storage/web3.storage/commit/a086fcc0f0d6d751bd0a4c014ef02e9d75a4fa13))
+
 ### [2.2.1](https://github.com/web3-storage/web3.storage/compare/website-v2.2.0...website-v2.2.1) (2022-04-12)
 
 
